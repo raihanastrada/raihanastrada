@@ -6,11 +6,11 @@ My name is Raihan Astrada Fathurrahman, or you can call me Astrada. I'm currentl
 
 ⚙ **Framework** : React Native
 
-🌱 **Currently learning** : HTML, CSS, and Jacascript for Web Developer
+🌱 **Currently learning** : HTML, CSS, and Javascript for Web Developer
 
 
 #
-If you have any further questions feel free to contact me on my social media below!
+💬 If you have any further questions feel free to contact me on my social media below!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Raihan_Astrada_Fathurrahman-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raihanastrada/)](https://www.linkedin.com/in/raihanastrada/)
 [![Gmail Badge](https://img.shields.io/badge/-raihan.astrada-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:raihan.astrada@gmail.com)](mailto:raihan.astrada@gmail.com)
