@@ -9,6 +9,13 @@ My name is Raihan Astrada Fathurrahman, or you can call me Astrada. I'm currentl
 🌱 **Currently learning** : HTML, CSS, and Javascript for Web Developer
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raihanastrada&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues&theme=nightowl" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanastrada&theme=nightowl&layout=compact" />
+</a>
+
 #
 💬 If you have any further questions feel free to contact me on my social media below!
 
