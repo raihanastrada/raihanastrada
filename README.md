@@ -1,12 +1,12 @@
 ### Hi there! 👋
-My name is Raihan Astrada Fathurrahman, or you can call me Astrada. I'm currently an Undergraduate Student at Bandung Institute of Technology (ITB) majoring in Computer Science. I'm very eager to learn new things in order to grow and further improve my IT skills. For now, this Github mostly consist of College Works, but I'm really looking up to build my own project SOON !!!
+My name is Raihan Astrada Fathurrahman, or you can call me Raihan. I'm currently an Undergraduate Student at Bandung Institute of Technology (ITB) majoring in Computer Science. I'm very eager to learn new things in order to grow and further improve my IT skills. For now, this Github mostly consist of College Works, but I'm really looking up to build my own project SOON !!!
 
 ### Languages & Frameworks 💻
-📄 **Languages** : Python, MySQL, C, Javascript, Java
+📄 **Languages** : Python, C++, MySQL, C, Java, Javascript 
 
 ⚙ **Framework** : React Native
 
-🌱 **Currently learning** : HTML, CSS, and Javascript for Web Developer
+<!-- 🌱 **Currently learning** : HTML, CSS, and Javascript for Web Developer -->
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
