@@ -21,6 +21,10 @@ My name is Raihan Astrada Fathurrahman, or you can call me Raihan. I'm currently
 
 [![Linkedin Badge](https://img.shields.io/badge/-Raihan_Astrada_Fathurrahman-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raihanastrada/)](https://www.linkedin.com/in/raihanastrada/)
 
+##### 
+![](https://komarev.com/ghpvc/?username=raihanastrada&label=TEST&color=grey)
+<!-- ![](https://komarev.com/ghpvc/?username=raihanastrada) -->
+
 <!--
 **raihanastrada/raihanastrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
