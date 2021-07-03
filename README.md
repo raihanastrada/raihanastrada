@@ -1,5 +1,5 @@
 ### Hi there! 👋
-My name is Raihan Astrada Fathurrahman, or you can call me Raihan. I'm currently an Undergraduate Student at Bandung Institute of Technology (ITB) majoring in Computer Science. I'm a machine learning enthusiast that sometimes do mobile app/web development. This Github mostly consist of College Works.
+My name is Raihan Astrada Fathurrahman, or you can call me Raihan. I'm currently an Undergraduate Student at Bandung Institute of Technology (ITB) majoring in Computer Science. I'm a machine learning enthusiast that sometimes do software engineering. For now, this Github mostly consist of my College Works.
 
 ### Languages & Frameworks 💻
 📄 **Languages** : Python, Java, C++, MySQL, C, Javascript 
@@ -22,7 +22,6 @@ My name is Raihan Astrada Fathurrahman, or you can call me Raihan. I'm currently
 [![Linkedin Badge](https://img.shields.io/badge/-Raihan_Astrada_Fathurrahman-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raihanastrada/)](https://www.linkedin.com/in/raihanastrada/)
 
 ##### 
-![](https://komarev.com/ghpvc/?username=raihanastrada&label=TEST&color=grey)
 <!-- ![](https://komarev.com/ghpvc/?username=raihanastrada) -->
 
 <!--
