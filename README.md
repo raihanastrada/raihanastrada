@@ -2,9 +2,9 @@
 My name is Raihan Astrada Fathurrahman, or you can call me Raihan. I'm currently an Undergraduate Student at Bandung Institute of Technology (ITB) majoring in Computer Science. I'm interested in machine learning and software engineering. For now, this Github mostly consist of my College Works.
 
 ### Languages & Frameworks 💻
-📄 **Languages** : Python, Java, C++, C, Javascript 
+📄 **Languages** : Python, Java, C++, Javascript 
 
-⚙ **Framework** : React Native
+⚙ **Framework** : TensorFlow, Flutter, React Native
 
 <!-- 🌱 **Currently learning** : HTML, CSS, and Javascript for Web Developer -->
 
@@ -13,7 +13,7 @@ My name is Raihan Astrada Fathurrahman, or you can call me Raihan. I'm currently
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raihanastrada&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues&theme=nightowl" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanastrada&langs_count=6&theme=nightowl&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanastrada&langs_count=5&theme=nightowl&layout=compact" />
 </a>
 
 #
